@@ -57,7 +57,7 @@ body {
 .stats {
   display: flex;
   padding-left: 72px;
-  padding-bottom: 59px;
+
   width: 80%;
   justify-content: space-between;
 }
