@@ -88,4 +88,5 @@ body {
 .image {
   mix-blend-mode: multiply;
   opacity: 80%;
+  border-radius: 0 8px 8px 0;
 }
